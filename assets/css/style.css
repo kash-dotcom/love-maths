@@ -71,6 +71,7 @@ body {
 }
 
 #answer-box {
+    background-color: #E6ECF0;
     border: none;
     color: #445361;
     display: inline-block;
